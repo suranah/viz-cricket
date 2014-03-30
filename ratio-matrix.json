@@ -1,0 +1,267 @@
+{
+    "nodes": [
+        {
+            "name": "AUS",
+            "ranking":1,
+            "group": 1
+        },
+        {
+            "name": "BAN",
+            "ranking":9,
+            "group": 1
+        },
+        {
+            "name": "ENG",
+        	"ranking":7,
+            "group": 1
+        },
+        {
+            "name": "IND",
+            "ranking":4,
+            "group": 1
+        },
+        {
+            "name": "NZ",
+            "ranking":8,
+            "group": 1
+        },
+        {
+            "name": "PAK",
+            "ranking":5,
+            "group": 1
+        },
+        {
+            "name": "SA",
+            "ranking":2,
+            "group": 1
+        },
+        {
+            "name": "SL",
+            "ranking":6,
+            "group": 1
+        },
+        {
+            "name": "WI",
+            "ranking":3,
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "wins": 18,
+            "loses": 1
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "wins": 67,
+            "loses": 46
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "wins": 64,
+            "loses": 37
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "wins": 85,
+            "loses": 34
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "wins": 54,
+            "loses": 31
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "wins": 41,
+            "loses": 36
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "wins": 53,
+            "loses": 28
+        },
+        {
+            "source": 0,
+            "target": 8,
+            "wins": 65,
+            "loses": 59
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "wins": 2,
+            "loses": 13
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "wins": 3,
+            "loses": 21
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "wins": 5,
+            "loses": 16
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "wins": 1,
+            "loses": 30
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "wins": 1,
+            "loses": 13
+        },
+        {
+            "source": 1,
+            "target": 7,
+            "wins": 3,
+            "loses": 27
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "wins": 6,
+            "loses": 15
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "wins": 33,
+            "loses": 43
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "wins": 29,
+            "loses": 35
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "wins": 42,
+            "loses": 28
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "wins": 21,
+            "loses": 25
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "wins": 26,
+            "loses": 24
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "wins": 40,
+            "loses": 41
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "wins": 46,
+            "loses": 37
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "wins": 48,
+            "loses": 69
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "wins": 24,
+            "loses": 40
+        },
+        {
+            "source": 3,
+            "target": 7,
+            "wins": 75,
+            "loses": 52
+        },
+        {
+            "source": 3,
+            "target": 8,
+            "wins": 46,
+            "loses": 57
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "wins": 35,
+            "loses": 51
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "wins": 18,
+            "loses": 33
+        },
+        {
+            "source": 4,
+            "target": 7,
+            "wins": 35,
+            "loses": 37
+        },
+        {
+            "source": 4,
+            "target": 8,
+            "wins": 21,
+            "loses": 28
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "wins": 18,
+            "loses": 38
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "wins": 77,
+            "loses": 50
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "wins": 52,
+            "loses": 66
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "wins": 25,
+            "loses": 24
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "wins": 38,
+            "loses": 12
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "wins": 20,
+            "loses": 26
+        }
+    ]
+}
